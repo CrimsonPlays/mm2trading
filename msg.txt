@@ -2,9 +2,9 @@
 - Traveler Gun
 - Constellation, Celestial
 - 2 Evergreen, Evergun
-- 2x Corrupts
-- 8x Bats
-- Xeno set, Harvester
+- Corrupt, 8x Bats
+- 3x Iceps, Harvester
+- Xeno set
 - Flowerwood set
 - 14x Phantom sets
 - 4x Rainbow, 2x Rainbow guns
