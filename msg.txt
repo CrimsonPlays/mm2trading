@@ -1,12 +1,12 @@
 **Trading:**
-- Chroma Bauble, 2x Chroma Constellations
+- Chroma Bauble, Chroma Constellation
 (c baub/c cons/cconst/cbauble)
+- 2x Gingerscopes
 - Traveler Gun
 - Constellation
 - Evergreen, Evergun
 - 27x Baubles
-- 3x Corrupts
-- Harvester, 2x Iceps
+- 3x Corrupts, Harvester, 2x Iceps
 - 2x Flowerwood, Bloom
 - 5x Phantom sets
 - 2x Sunrises, 2x Sunsets
