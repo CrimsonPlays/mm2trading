@@ -3,7 +3,7 @@
 (c baub/c cons/cconst/cbauble)
 - 2x Gingerscopes
 - Traveler Gun
-- Constellation
+- Constellation, Celestial
 - Evergreen, Evergun
 - 27x Baubles
 - 3x Corrupts, Harvester, 2x Iceps
