@@ -5,8 +5,8 @@
 - Traveler Gun
 - Constellation, Celestial
 - Evergreen, Evergun
-- 27x Baubles
-- 3x Corrupts, Harvester, 2x Iceps
+- 28x Baubles
+- 3x Corrupts, Icepiercer
 - 2x Flowerwood, Bloom
 - 5x Phantom sets
 - 2x Sunrises, 2x Sunsets
