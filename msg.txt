@@ -1,8 +1,7 @@
 **Trading:**
 - 2x Chroma Bauble, Chroma Constellation
 (cbaub/ccons/cconst/cbauble)
-- Evergun, Celestial
-- 3x Corrupts
+- Evergun, 3x Corrupts
 - 6x Spirits, 1x Soul
 - 4x Phantom sets, 2x Flowerwood
 - 2x Sunrises, 2x Sunsets
